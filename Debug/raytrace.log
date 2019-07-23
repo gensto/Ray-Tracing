@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(61): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(195): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(325): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(342): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(343): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(418): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(426): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(431): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\genesis\onedrive\cs 351\raytrace2015\raytrace2015\main.cpp(431): warning C4305: 'argument': truncation from 'double' to 'const float'
+  raytrace.vcxproj -> C:\Users\Genesis\OneDrive\CS 351\raytrace2015\raytrace2015\Debug\raytrace.exe
